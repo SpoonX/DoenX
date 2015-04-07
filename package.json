@@ -23,6 +23,9 @@
     "grunt-contrib-less": "0.11.1",
     "grunt-contrib-coffee": "~0.10.1"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "scripts": {
     "start": "node app.js",
     "debug": "node debug app.js"
